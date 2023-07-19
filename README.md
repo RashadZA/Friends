@@ -17,9 +17,6 @@ You can run this project:
 1. Direct on Android Studio Emulator by this [link](https://github.com/RashadZA/Friends)
 2. Physical Device. [Apk_link](https://drive.google.com/file/d/1hz7mTGlgQOUiN0O4VpS_6OoOe5y6b25r/view?usp=sharing)
 
-# Permission:
-* Storage permission needed
-
 # How to Use the Project:
 
 * After install APK and opening app Friends screen will show.
